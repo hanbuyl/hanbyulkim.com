@@ -358,7 +358,7 @@ display_categories: ["physics", "research-life", "academia", "daily-life"] # the
 
 scholar:
   last_name: [Kim]
-  first_name: [Hanbyul, H.]
+  first_name: [Hanbyul, Han-Byul, H.]
 
   style: apa
   locale: en

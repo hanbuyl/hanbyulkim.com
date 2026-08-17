@@ -4,16 +4,16 @@ title: home
 nav: true
 nav_order: 1
 permalink: /
-subtitle: Physicist. # affiliation, contact, motto — edit me
+subtitle: Graduate student in Physics, <a href='https://www.hanyang.ac.kr'>Hanyang University</a>, Seoul, Korea.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Physics</p>
+    <p>Hanyang University</p>
+    <p>khbof@hanyang.ac.kr</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,6 +29,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a physicist working on quantum measurement. This is my personal homepage and blog.
+I am a graduate student in the Department of Physics at [Hanyang University](https://www.hanyang.ac.kr), working with Prof. Moon Jip Park on theoretical condensed matter physics.
 
-(Placeholder — write your short bio here. Profile photo: put `prof_pic.jpg` in `assets/img/`. Publications are generated automatically from `_bibliography/papers.bib`. Social icons are configured in `_data/socials.yml`.)
+My research focuses on **topological phases**, **quantum geometry**, and **magnetoelectric responses** in correlated and van der Waals systems. I am particularly interested in microscopic modeling and symmetry-based theory for emergent electronic and magnetic phenomena — see the [research](/research/) page for details.
+
+Beyond physics, I write here about research life, the PhD journey, and everything in between on the [blog](/blog/).
+
+(Note to self: replace `assets/img/prof_pic.jpg` with a real profile photo.)
