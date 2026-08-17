@@ -34,5 +34,3 @@ I am a graduate student in the Department of Physics at [Hanyang University](htt
 My research focuses on **topological phases**, **quantum geometry**, and **magnetoelectric responses** in correlated and van der Waals systems. I am particularly interested in microscopic modeling and symmetry-based theory for emergent electronic and magnetic phenomena — see the [research](/research/) page for details.
 
 Beyond physics, I write here about research life, the PhD journey, and everything in between on the [blog](/blog/).
-
-(Note to self: replace `assets/img/prof_pic.jpg` with a real profile photo.)
